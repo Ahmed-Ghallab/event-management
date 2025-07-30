@@ -1,0 +1,14 @@
+body {
+  background-color: #f8f9f8;
+  color: #18191a;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+ul {
+  padding-left: 0;
+}
+.list-group-item button {
+  min-width: 70px;
+}
